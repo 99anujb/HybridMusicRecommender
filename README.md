@@ -1,7 +1,5 @@
 # Hybrid Music Recommendation System
 
-**Group 13 - Machine Learning Project**
-
 A hybrid music recommendation system that combines **content-based filtering** (audio feature similarity) with **ML-predicted popularity scores** to deliver personalized song recommendations using Spotify track data.
 
 ---
