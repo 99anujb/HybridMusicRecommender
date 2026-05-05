@@ -2,6 +2,24 @@
 
 A hybrid music recommendation system that combines **content-based filtering** (audio feature similarity) with **ML-predicted popularity scores** to deliver personalized song recommendations using Spotify track data.
 
+## App Screenshots
+
+| Home | Find My Vibe |
+|------|-------------|
+| ![Home](screenshot_home.png) | ![Find My Vibe](screenshot_vibe.png) |
+
+| Songs Like This | How It Works |
+|----------------|-------------|
+| ![Songs Like This](screenshot_search.png) | ![How It Works](screenshot_howit.png) |
+
+## Live App
+
+Run locally:
+```bash
+pip install streamlit lightgbm xgboost scikit-learn pandas numpy matplotlib seaborn
+streamlit run app.py
+```
+
 ---
 
 ## Table of Contents
